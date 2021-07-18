@@ -1,2 +1,2 @@
 # Java-practice-
-Some projects based on assessments from CSU
+Some java programs I created while practicing
