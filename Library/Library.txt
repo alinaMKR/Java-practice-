@@ -1,0 +1,9 @@
+Anna Karenina,Leo Tolstoy,1877,0398851437
+Flower,Nina Kolz,1991,0988233175
+Idiot,Fyodor Dostoevsky,1868,1503463557
+Idiot,Fyodor Dostoevsky,1869,1853261750
+Pride and Prejudice,Jane Austen,1813,0141199075
+Rome,Jacob Kotring,2005,1276350482
+Romeo and Juliet,William Shakespeare,1597,0034759815
+The Old Man and the Sea,Ernest Hemingway,1952,0236547854
+War and Peace,Leo Tolstoy,1867,0099512246
